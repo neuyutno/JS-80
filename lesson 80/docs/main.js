@@ -14,15 +14,16 @@
 
 // 3 Перепишите 1 и 2 цикл используя цикл while.
 
-
 // let i = 0
 // while (i <= 12) {
 //     console.log(`Пройден ${i} круг`);
-//     i + 2;
+//     i + = 2;
+//     break;
 // }
 
 // let i = 0
 // while (i > 0) {
 //     console.log(i);
 //     i--;
+//     break;
 // }
